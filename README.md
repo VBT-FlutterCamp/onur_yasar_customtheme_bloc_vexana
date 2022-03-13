@@ -1,16 +1,2 @@
-# monster_hunter
+![Ekran Alıntısı](https://user-images.githubusercontent.com/63808974/158079173-75dca584-4bf7-4d31-a0b8-f8a7c9ed2f31.PNG) ![Ekran Alıntısı1](https://user-images.githubusercontent.com/63808974/158079194-2ae5e296-d588-4ad5-b945-c5d945ef0832.PNG)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
